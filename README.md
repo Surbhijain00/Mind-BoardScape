@@ -100,6 +100,130 @@ boardscape/
 | `NEXT_PUBLIC_CONVEX_URL` | Convex deployment URL |
 | `LIVEBLOCKS_SECRET_KEY` | Liveblocks secret key |
 
+
+<br>
+<br>
+
+# Screenshots
+
+<br>
+<br>
+
+
+## 1.🚀 Login Page
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SignIn.png)
+
+   <br>
+
+   
+## 2.🚀 Home Page
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS1.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS2.png)
+  
+   <br>
+   
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS3.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS4.png)
+  
+   <br>
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS5.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS6.png)
+  
+   <br>
+   <br>
+   
+
+## 3.🚀 Features Page
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS7.png)
+  
+   <br>
+   
+   
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS9.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS10.png)
+  
+   <br>
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS11.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS12.png)
+
+  <br>
+  
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS11.png)
+  
+   <br>
+   <br>
+
+## 4. 🚀 About Page
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS15.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS16.png)
+  
+   <br>
+   
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS17.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS10.png)
+  
+   <br>
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS11.png)
+  
+   <br>
+   <br>
+   
+## 5.🚀 Dashboard Page
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS18.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS19.png)
+  
+   <br>
+   
+
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS20.png)
+  
+   <br>
+   
+![image](https://github.com/Surbhijain00/Mind-BoardScape/blob/main/Screenshots/SS22.png)
+  
+   <br>
+  <br>
+
+
+
+
+
+
+
+
+
+
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -115,4 +239,4 @@ boardscape/
 - [Convex](https://www.convex.dev/) for the backend
 - [Liveblocks](https://liveblocks.io/) for real-time collaboration
 - [shadcn/ui](https://ui.shadcn.com/) for UI components
-- reference from Miro clone project by Antonio
+  
